@@ -533,7 +533,7 @@ Ensure that the repository includes the corresponding MIT License file before di
   <br/>
   Python | Data Science | Machine Learning
   <br/><br/>
-  <a href="https://github.com/">
+  <a href="https://github.com/lakshyakansal">
     GitHub
   </a>
 </p>
